@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I am a developer from Italy, CS graduate and tech enthusiast with a strong background in backend development.<br><br>🔭 I’m currently working as a Software Engineer for Geosystems srl, working with GIS (Geographical Information Systems)<br>	and mostly writing JS and Python for the time being.<br><br>📚 <b>These are the things I'm studying </b><br><br>	• following Boot.dev curriculum for backend developers to strengthen my skills<br>	• learning OCaml to better understand functional programming<br>	• reading up on Cyber Security (e.g. Ethical Hacking by Daniel G. Graham; Practical Vulnerability Management by Andrew Magnusson) <br>	• exploring DevOps to be able to efficiently use tools like Docker, Kubernetes, Helm, Gitlab CICD, Github Actions and more<br>	• A tad bit of Japanese: I'll probably try out the JLPT5 exam<br>	<br>🎯 <b>Goals to achieve by the end of 2025</b><br><br>	• build a number of projects on Github<br>	• keep up with continuous learning and finish the aforementioned topics<br> • acquire a CybSec certification among those available to newcomers (e.g. CEH, SEC+, PenTest+, CCST, CCNA, OSCP) <br>	• go back to reading paperbacks when I'm not in front of a screen...</p>
+<p align="left">I am a developer from Italy, CS graduate and tech enthusiast with a strong background in backend development.<br><br>🔭 I’m currently working as a Full Stack Software Engineer at Geosystems srl, mostly writing JavaScript (Vue.js + Node.js) and Python (regression testing with Selenium WebDriver).<br><br>📚 <b>These are the things I'm studying </b><br><br>	• following Boot.dev curriculum for backend developers to strengthen my skills<br>	• learning OCaml to better understand functional programming<br>	• reading up on Cyber Security (e.g. Ethical Hacking by Daniel G. Graham; Practical Vulnerability Management by Andrew Magnusson) <br>	• exploring DevOps to be able to efficiently use tools like Docker, Kubernetes, Helm, Gitlab CICD, Github Actions and more<br>	• A tad bit of Japanese: I'll probably try out the JLPT5 exam<br>	<br>🎯 <b>Goals to achieve by the end of 2025</b><br><br>	• build a number of projects on Github<br>	• keep up with continuous learning and finish the aforementioned topics<br> • acquire a CybSec certification among those available to newcomers (e.g. CEH, SEC+, PenTest+, CCST, CCNA, OSCP) <br>	• go back to reading paperbacks when I'm not in front of a screen...</p>
 
 ###
 
@@ -41,15 +41,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" alt="mocha logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
